@@ -1,0 +1,14 @@
+.head-th:hover {
+    cursor: pointer;
+    background-color: greenyellow;
+}
+
+.head-th:focus {
+    cursor: pointer;
+    background-color: greenyellow;
+}
+
+.head-th:active {
+    cursor: pointer;
+    background-color: green
+}
